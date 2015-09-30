@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 欽定滿洲源流考
-#+DATE: 2015-08-24 22:40:28.988001
-#+PROPERTY: ID KR2k0038
-#+PROPERTY: BASEEDITION WYG    
